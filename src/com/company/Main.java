@@ -67,5 +67,6 @@ public class Main {
     //ctrl + ctrl + upper arrow or down arrow (holding) - working with many code strings  te|st
     //                                                                                    te|st
 
-    //ctrl + Y - Delete full string of code
+    //ctrl + Y - Delete full line of code
+    //ctrl + D - Duplicate line of code
 }
