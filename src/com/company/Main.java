@@ -61,10 +61,11 @@ public class Main {
         ArrayList<HashMap<String, Integer>> hashMaps = new ArrayList<>();
         return hashMaps;
     }
-
     //ctrl + r - Find and replace/delete your code by finding the same name
     //ctrl + shift + r - The same but working in 2 files
 
     //ctrl + ctrl + upper arrow or down arrow (holding) - working with many code strings  te|st
     //                                                                                    te|st
+
+    //ctrl + Y - Delete full string of code
 }
